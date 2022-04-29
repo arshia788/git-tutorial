@@ -1,1 +1,1 @@
-console.log('yoyo22ss')
+console.log('yoyo22')
